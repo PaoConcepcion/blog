@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Esto estuvo muy facil como para que sea verdad hasta ahorita whut?
+                                    Un mensajin nuevo para que se vea que si se subio esta wea
                                 </div>
                             </div>
                         </div>
